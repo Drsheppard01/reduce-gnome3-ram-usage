@@ -1,5 +1,5 @@
 # Reduce GNOME RAM usage
-Simple script for reduce memory consumption in GNOME 3. Tested on Fedora 42 Worksation with GNOME 48.
+Simple script for reduce memory consumption in GNOME. Tested on Fedora 42 Worksation with GNOME 48.
 
 ### Install and run:
 
